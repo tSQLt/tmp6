@@ -1,0 +1,15 @@
+commit 185d1f7c042956724afa47f1e395278b18df750d
+Author: tSQLt <tSQLt@users.noreply.github.com>
+Date:   Tue Jul 21 09:49:02 2020 -0400
+
+    ....
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..230e812
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,3 @@
++# tmp6
++
++This is a temporary repository of in-flight tSQLt builds. Not safe for publishing!
